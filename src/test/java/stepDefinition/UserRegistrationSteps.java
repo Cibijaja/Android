@@ -30,6 +30,7 @@ public class UserRegistrationSteps {
 	@Then("user registration should be successful")
 	public void user_registration_should_be_successful() {
 		Assert.assertTrue(true);
+		System.out.println("Hiiiii");
 	}
 	
 	
